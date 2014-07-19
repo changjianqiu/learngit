@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 Git has a very good software.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
